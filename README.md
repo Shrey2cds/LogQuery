@@ -1,4 +1,4 @@
-Log Query Application
+Log Query Application:  
 This application allows ingestion of log data and provides a query interface to retrieve logs based on specified parameters.
 
 Features
